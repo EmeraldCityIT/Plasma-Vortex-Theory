@@ -1,3 +1,4 @@
+ABSTRACT
 Plasma Vortex Theory is the engineered application of known sciences to create efficient velocity
 during spaceflight using electricity and propellant gas. Oscillation of granulate and liquid reagents 
 using simple harmonic motion has been shown to excite particles to form geometric patterns when using
