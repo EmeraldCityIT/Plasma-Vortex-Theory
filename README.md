@@ -1,3 +1,9 @@
+
+Working File Repository on Seattle Colleges One Drive Account
+https://scedu-my.sharepoint.com/:f:/g/personal/cory_hofstad_seattlecolleges_edu/Eqv-vuf_52NKj2VQ84BVb_4ByLaFyAwXRg4Tf0Gg5cK3QA?e=do3S97
+
+
+
 ABSTRACT
 
 Plasma Vortex Theory is the engineered application of known sciences to create efficient velocity
